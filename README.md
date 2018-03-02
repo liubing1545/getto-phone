@@ -1,2 +1,0 @@
-# getto-phone
-getto-phone
